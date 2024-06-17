@@ -23,4 +23,17 @@
 - ***THEN DEPLOY THE REPO AND BOOM 💥***
 - ***DON'T FORGOT TO STAR THE REPO***
 
+ <details close>
+<summary>HOW TO DEPLOY 👨‍💻 SESSON-GENERATER 👨‍💻</summary>
+   
+    1: First Fork the Repo.
+    2: Then Go to Heroku Web Page
+    3: Create Heroku App
+    4: Add Heroku Postgres package
+    5: Click Deploy Tab And Add Github Your fork Repostory
+    6: Click Deploy Branch
+    7: Click view
+    8: Enjoy
+   </details>
+
 [`Helper`](https://wa.me/+94720797915?text=Session_Problem😢)
