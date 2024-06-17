@@ -1,4 +1,10 @@
-href="https://www.imghippo.com/i/YZc0v1718624793.png"
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+   <p align="center">
+<a href="https://github.com/MrMasterOfc">
+    <img src="https://www.imghippo.com/i/YZc0v1718624793.png" width="700px">
+  </a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 # 👨‍💻 *SESSION MADE BY MASTER MIND* 👨‍💻
